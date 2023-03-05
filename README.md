@@ -3,6 +3,7 @@ This project takes a MYSQL database inside a docker container and allows a java 
 
 
 #Staging
+
 With Docker Desktop running (I used version 4.17.0 for Mac, and I'm alson running Ventura MacOS 13.2.1 (22D68)), perform either of the following commands:
 
 Option1: 
